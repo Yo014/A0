@@ -1,0 +1,4 @@
+Bedroom-42 inch TV,Lamp,Pillows,Bed,Curtain,Closet,Mirror
+Living Room-65 inch TV,Guitar,Sitar,Couch,DVD player
+Library-Books,Tables,12 Magazines,Computers,Telephones
+Classroom-35 Chairs,Professor Billig,Notebooks,Bags,Sharpener,Pencil
