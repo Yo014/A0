@@ -1,6 +1,6 @@
 
 
-# README for the Python Game: "I Am On Duty Watching Changes to Rooms"
+# Python Game: "I Am On Duty Watching Changes to Rooms"
 
 ## Overview
 This is a text-based Python game where you play as a security guard monitoring rooms for anomalies. Your goal is to detect and report any changes or anomalies in the rooms before too many anomalies accumulate, which will result in losing the game. The game runs in real-time, with in-game time passing faster than real-time based on the timescale setting.
