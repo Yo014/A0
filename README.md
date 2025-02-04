@@ -35,12 +35,12 @@ This is a text-based Python game where you play as a security guard monitoring r
 - No additional libraries are required.
 
 ### Running the Game
-1. Save the provided Python code in a file named `rune_game.py`.
+1. Save the provided Python code in a file named `RunGame_696_726.py`.
 2. Open a terminal or command prompt.
 3. Navigate to the directory where the file is saved.
 4. Run the game using the command:
    ```bash
-   python rune_game.py
+   python RunGame_696_726.py
    ```
 5. Optionally, you can load rooms from a text file by passing the file name as a command-line argument:
    ```bash
