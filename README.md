@@ -44,7 +44,7 @@ This is a text-based Python game where you play as a security guard monitoring r
    ```
 5. Optionally, you can load rooms from a text file by passing the file name as a command-line argument:
    ```bash
-   python rune_game.py rooms_with_items.txt
+   python RunGame_696_726.py rooms_with_items.txt
    ```
 
 ### Customizing Rooms
