@@ -1,10 +1,6 @@
-# 101324696 - SANTO MUKIZA
-# 101318726 - JHERNIE MAGNAMPO
-# Category 1: Add rooms from a file (please follow the conventions inside "rooms_with_items.txt")
-# Category 2: Number anomaly
-#       a. New anomaly - NUMBER DISTORTION
-#       b. It checks if there is any numbers/digits in a random item in a room
-#       c. All rooms need to have an item with number (having 4 maximum anomalies at a time will end the game without any error)
+# - SANTO MUKIZA
+# - JHERNIE MAGNAMPO
+
 
 """
 Santo Mukiza
