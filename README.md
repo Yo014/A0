@@ -86,8 +86,8 @@ You can customize the game by modifying the following settings in the `main()` f
 ## Credits
 This game was developed as a collaborative effort by:
 
-- **Santo Mukiza** (Student ID: 101324696)  
-- **Jhernie Magnampo** (Student ID: 101318726)  
+- **Santo Mukiza**   
+- **Jhernie Magnampo**   
 
 ### Contributions
 - **Santo Mukiza**:
